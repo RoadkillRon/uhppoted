@@ -1,82 +1,82 @@
 [submodule "uhppote-core"]
 	path = uhppote-core
-	url = https://github.com/uhppoted/uhppote-core.git
+	url = https://github.com/RoadkillRon/uhppote-core.git
 
 [submodule "uhppoted-lib"]
 	path = uhppoted-lib
-	url = https://github.com/uhppoted/uhppoted-lib.git
+	url = https://github.com/RoadkillRon/uhppoted-lib.git
 
 [submodule "uhppote-simulator"]
 	path = uhppote-simulator
-	url = https://github.com/uhppoted/uhppote-simulator.git
+	url = https://github.com/RoadkillRon/uhppote-simulator.git
 
 [submodule "uhppote-cli"]
 	path = uhppote-cli
-	url = https://github.com/uhppoted/uhppote-cli.git
+	url = https://github.com/RoadkillRon/uhppote-cli.git
 
 [submodule "uhppoted-rest"]
 	path = uhppoted-rest
-	url = https://github.com/uhppoted/uhppoted-rest.git
+	url = https://github.com/RoadkillRon/uhppoted-rest.git
 
 [submodule "uhppoted-mqtt"]
 	path = uhppoted-mqtt
-	url = https://github.com/uhppoted/uhppoted-mqtt.git
+	url = https://github.com/RoadkillRon/uhppoted-mqtt.git
 
 [submodule "node-red-contrib-uhppoted"]
 	path = node-red-contrib-uhppoted
-	url = https://github.com/uhppoted/node-red-contrib-uhppoted.git
+	url = https://github.com/RoadkillRon/node-red-contrib-uhppoted.git
 
 [submodule "uhppoted-httpd"]
 	path = uhppoted-httpd
-	url = https://github.com/uhppoted/uhppoted-httpd
+	url = https://github.com/RoadkillRon/uhppoted-httpd.git
 
 [submodule "uhppoted-nodejs"]
 	path = uhppoted-nodejs
-	url = https://github.com/uhppoted/uhppoted-nodejs.git
+	url = https://github.com/RoadkillRon/uhppoted-nodejs.git
 
 [submodule "uhppoted-dll"]
 	path = uhppoted-dll
-	url = https://github.com/uhppoted/uhppoted-dll.git
+	url = https://github.com/RoadkillRon/uhppoted-dll.git
 
 [submodule "uhppoted-tunnel"]
 	path = uhppoted-tunnel
-	url = https://github.com/uhppoted/uhppoted-tunnel.git
+	url = https://github.com/RoadkillRon/uhppoted-tunnel.git
 
 [submodule "uhppoted-codegen"]
 	path = uhppoted-codegen
-	url = https://github.com/uhppoted/uhppoted-codegen.git
+	url = https://github.com/RoadkillRon/uhppoted-codegen.git
 
 [submodule "uhppoted-python"]
 	path = uhppoted-python
-	url = https://github.com/uhppoted/uhppoted-python
+	url = https://github.com/RoadkillRon/uhppoted-python.git
 
 [submodule "uhppoted-app-sheets"]
 	path = uhppoted-app-sheets
-	url = https://github.com/uhppoted/uhppoted-app-sheets.git
+	url = https://github.com/RoadkillRon/uhppoted-app-sheets.git
 
 [submodule "uhppoted-app-s3"]
 	path = uhppoted-app-s3
-	url = https://github.com/uhppoted/uhppoted-app-s3.git
+	url = https://github.com/RoadkillRon/uhppoted-app-s3.git
 
 [submodule "uhppoted-app-db"]
 	path = uhppoted-app-db
-	url = https://github.com/uhppoted/uhppoted-app-db.git
+	url = https://github.com/RoadkillRon/uhppoted-app-db.git
 
 [submodule "uhppoted-app-wild-apricot"]
 	path = uhppoted-app-wild-apricot
-	url = https://github.com/uhppoted/uhppoted-app-wild-apricot
+	url = https://github.com/RoadkillRon/uhppoted-app-wild-apricot.git
 
 [submodule "uhppoted-app-home-assistant"]
 	path = uhppoted-app-home-assistant
-	url = https://github.com/uhppoted/uhppoted-app-home-assistant.git
+	url = https://github.com/RoadkillRon/uhppoted-app-home-assistant.git
 
 [submodule "uhppoted-wiegand"]
 	path = uhppoted-wiegand
-	url = https://github.com/uhppoted/uhppoted-wiegand.git
+	url = https://github.com/RoadkillRon/uhppoted-wiegand.git
 
 [submodule "uhppoted-breakout"]
 	path = uhppoted-breakout
-	url = https://github.com/uhppoted/uhppoted-breakout
+	url = https://github.com/RoadkillRon/uhppoted-breakout.git
 [submodule "uhppoted-lib-dotnet"]
 	path = uhppoted-lib-dotnet
-	url = https://github.com/uhppoted/uhppoted-lib-dotnet.git
+	url = https://github.com/RoadkillRon/uhppoted-lib-dotnet.git
